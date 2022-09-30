@@ -1,9 +1,9 @@
 import pandas as pd
-#from pandasql import sqldf
+from pandasql import sqldf
 import typer
-#from psycopg2.extras import NamedTupleCursor
+from psycopg2.extras import NamedTupleCursor
 
-#from tabulate import tabulate
+from tabulate import tabulate
 
 app = typer.Typer()
 
@@ -46,14 +46,13 @@ def sleephour():
 
 
 @app.command()
-def sleephour():
+def agerange():
     """return the total sleep hours for the week of each student"""
     df = pd.read_csv('/workspaces/IDS706_Project2_AJ/dataset/Student_Study_data.csv')
-    studyhour = df.groupby('Name')['your sleep hour?'].sum()
-    print("the weekly sleep time of each student is: ")
-    print(studyhour)
-    mean = df['your sleep hour?'].mean()
-    print('the average sleep time is ' + str(mean))
+    age_min = df['what is your age?'].min()
+    age_max = df['what is your age?'].max()
+    print("the age range of the students is from " + str(age_min) + " to " + str(age_max))
+   
 
 if __name__ == "__main__":
     app()
