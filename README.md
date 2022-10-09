@@ -1,5 +1,7 @@
 # Project2_AJ
 
+
+Hello everyone! Welcome to my Project for IDS706
 To build a Bash command-line tool that performs useful data preparation task such as truncating data, sorting it, cleaning data, or doing ETL. 
 
 
