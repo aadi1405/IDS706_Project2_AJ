@@ -89,3 +89,6 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
  
 ## Useful Resources :
 - http://omgenomics.com/bash-intro/
+
+
+### THANK YOU!!
