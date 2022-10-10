@@ -6,7 +6,7 @@ To build a Bash command-line tool that performs useful data preparation task suc
 
 
 
-Useful command line commands - 
+## Useful command line commands - 
 - ls : to list out all the files & folders in current space
 - cat <file_name> : to view the contents of the file
 - vi <file_name> : to edit the file
@@ -18,7 +18,7 @@ Useful command line commands -
 
 
 
-Useful Keyboard Shortcuts -
+## Useful Keyboard Shortcuts -
 - arrow up/down key : to get the most recently typed commands
 - Command + e : to go to end of line
 - Tab : to autofill
@@ -26,13 +26,13 @@ Useful Keyboard Shortcuts -
 - escape + insert : to start inserting on the editor
 
 
-#### Flow Chart about the Customer Analysis System
+## Flow Chart about the Customer Analysis System
 ![Blank diagram](https://user-images.githubusercontent.com/67281453/194789066-3857c207-c654-4298-ad67-42d5cfa0e04e.png)
 
 
 Data Source : https://www.kaggle.com/code/aashidutt3/eda-student-study-performance/data 
 
-#### About the Dataset
+## About the Dataset
 
 People
 
@@ -74,7 +74,7 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 
-#### Some of the function available in this project 
+## Some of the function available in this project 
 - [getinfo] To get details of the data set 
 - [randomsample] To get fice random samples from the dataset
 - [shape] To get the shape of the dataset
@@ -83,5 +83,5 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 - [describe] To describe the dataset
 - [countforme] To count the total number of purchases made in a particular mode
  
-Useful Resources :
+## Useful Resources :
 - http://omgenomics.com/bash-intro/
