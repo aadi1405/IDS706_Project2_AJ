@@ -26,6 +26,10 @@ Useful Keyboard Shortcuts -
 - escape + insert : to start inserting on the editor
 
 
+Flow Chart about the Customer Analysis System
+![Blank diagram](https://user-images.githubusercontent.com/67281453/194789066-3857c207-c654-4298-ad67-42d5cfa0e04e.png)
+
+
 Data Source : https://www.kaggle.com/code/aashidutt3/eda-student-study-performance/data \
 
 Useful Resources :
