@@ -1,4 +1,4 @@
-# Project2_AJ
+# Project2_AJ - CUSTOMER ANALYSIS COMMAND LINE TOOL
 
 
 Hello everyone! Welcome to my Project for IDS706
