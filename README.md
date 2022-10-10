@@ -2,7 +2,11 @@
 
 
 Hello everyone! Welcome to my Project for IDS706
-To build a Bash command-line tool that performs useful data preparation task such as truncating data, sorting it, cleaning data, or doing ETL. 
+
+## Goal of the Project
+
+- To build a Bash command-line tool that performs useful data preparation task such as truncating data, sorting it, cleaning data, or doing ETL. 
+- To analyze a customer dataset that can help companies assess their customers and make improvements in their products accordingly.
 
 
 
