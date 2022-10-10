@@ -74,5 +74,14 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 
+#### Some of the function available in this project 
+- [getinfo] To get details of the data set 
+- [randomsample] To get fice random samples from the dataset
+- [shape] To get the shape of the dataset
+- [diffedu] To return the different cateogaries of education of the customers in the dataset
+- [eduvalue(x,y)]  return the average amount spent on a particular class of product by a particular customer class based on education
+- [describe] To describe the dataset
+- [countforme] To count the total number of purchases made in a particular mode
+ 
 Useful Resources :
 - http://omgenomics.com/bash-intro/
