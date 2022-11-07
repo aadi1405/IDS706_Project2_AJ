@@ -12,7 +12,4 @@ lint:
 	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib/*.py
 
 all: install lint test
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
